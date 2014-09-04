@@ -1,0 +1,13 @@
+Files asterisk-1.4.4/apps/app_dial.c and asterisk-1.4.4-callsource/apps/app_dial.c differ
+Files asterisk-1.4.4/build_tools/prep_tarball and asterisk-1.4.4-callsource/build_tools/prep_tarball differ
+Files asterisk-1.4.4/channels/chan_sip.c and asterisk-1.4.4-callsource/channels/chan_sip.c differ
+Files asterisk-1.4.4/CREDITS and asterisk-1.4.4-callsource/CREDITS differ
+Files asterisk-1.4.4/doc/00README.1st and asterisk-1.4.4-callsource/doc/00README.1st differ
+Files asterisk-1.4.4/main/app.c and asterisk-1.4.4-callsource/main/app.c differ
+Files asterisk-1.4.4/main/channel.c and asterisk-1.4.4-callsource/main/channel.c differ
+Files asterisk-1.4.4/menuselect/example_menuselect-tree and asterisk-1.4.4-callsource/menuselect/example_menuselect-tree differ
+Files asterisk-1.4.4/res/res_features.c and asterisk-1.4.4-callsource/res/res_features.c differ
+Files asterisk-1.4.4/sounds/Makefile and asterisk-1.4.4-callsource/sounds/Makefile differ
+Files asterisk-1.4.4/sounds/sounds.xml and asterisk-1.4.4-callsource/sounds/sounds.xml differ
+Files asterisk-1.4.4/UPGRADE.txt and asterisk-1.4.4-callsource/UPGRADE.txt differ
+
